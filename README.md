@@ -1,6 +1,6 @@
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Chicky+Huynh;Coder; 3rd+year+IT+student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Chicky+Huynh;Coder; 3rd+year+IT+student" alt="Typing SVG" api?username=Chicky25&theme=tokyonight&v=1/>
 
 
 ### <p align="center">Aspiring Flutter Developer & Computer Vision Researcher</p>
