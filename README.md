@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Computer+Vision+Researcher;Tech+Enthusiast" alt="Typing SVG" />
 
-# <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7W/giphy.gif" width="35"> Hi, I'm Chicky 👋</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Chicky+Huynh;Coder; 3rd+year+IT+student" alt="Typing SVG" />
 
 ### <p align="center">Aspiring Flutter Developer & Computer Vision Researcher</p>
 
