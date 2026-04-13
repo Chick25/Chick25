@@ -1,6 +1,12 @@
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Chicky+Huynh;Coder; 3rd+year+IT+student" alt="Typing SVG" api?username=Chicky25&theme=tokyonight&v=1/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Chicky+Huynh;Aspiring+Flutter+Developer;3rd+year+IT+student" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Chicky25&show_icons=true&theme=tokyonight&border_radius=10" />
+</div>
 
 
 ### <p align="center">Aspiring Flutter Developer & Computer Vision Researcher</p>
