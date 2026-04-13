@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=220&section=header&text=WELCOME%20TO%20MY%20SPACE&fontSize=60&animation=twinkling&fontAlignY=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,00e5ff,8000ff&height=220&section=header&text=FLUTTER%20DEVELOPER&fontSize=50&fontAlignY=35" />
 </p>
 
 # <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7W/giphy.gif" width="35"> Hi, I'm Chicky 👋</p>
