@@ -1,16 +1,59 @@
-# Chick25
-# Hi there, I'm Chicky 👋
-### Aspiring Flutter Developer | CS Student
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=220&section=header&text=WELCOME%20TO%20MY%20SPACE&fontSize=60&animation=twinkling&fontAlignY=45" />
+</p>
 
-- 🔭 I’m currently working on mobile applications using **Flutter & Dart**.
-- 🌱 I’m currently learning about **AI, Computer Vision**, and hardware integration.
-- ⚡ Fun fact: I love building tools that solve real-world problems.
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chick25&show_icons=true&theme=tokyonight&cache_seconds=1800)
+# <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7W/giphy.gif" width="35"> Hi, I'm Chicky 👋</p>
 
-### 🛠 Languages and Tools:
+### <p align="center">Aspiring Flutter Developer & Computer Vision Researcher</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FLUTTER-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DART-%230175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FIREBASE-%23039BE5?style=for-the-badge&logo=firebase"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Chicky25&show_icons=true&theme=tokyonight&border_radius=15&rank_icon=github&count_private=true" width="450" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicky25&layout=compact&theme=tokyonight&border_radius=15&hide=makefile,json" width="300" alt="Top Langs" />
+  </a>
+</p>
+
+---
+
+## 🛠 TECH STACK / SKILLS
+
 <p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,opencv,tensorflow,aws,git,github" />
+</p>
+
+---
+
+## 🔭 WORK & LEARNING
+
+- ⚡ I'm creating cross-platform mobile experiences with **Flutter & Dart**.
+- 🧠 Exploring the intersection of **Computer Vision** and hardware.
+- 💬 Ask me about UI/UX in Mobile, AI integration, or my current CS journey!
+
+---
+
+## 🤝 CONNECT WITH ME
+
+<p align="left">
+  <a href="URL_LINKEDIN_CUA_BAN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:EMAIL_CUA_BAN@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chicky25&theme=tokyonight&area=true&hide_border=true&height=200" />
 </p>
