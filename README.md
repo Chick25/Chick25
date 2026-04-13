@@ -20,14 +20,14 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chicky25&show_icons=true&theme=tokyonight&border_radius=15&rank_icon=github&count_private=true" width="450" alt="GitHub Stats" />
-  </a>
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chicky25&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+</p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicky25&layout=compact&theme=tokyonight&border_radius=15&hide=makefile,json" width="300" alt="Top Langs" />
   </a>
-</p>
+
 
 ---
 
