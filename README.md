@@ -1,5 +1,5 @@
 # Chick25
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chicky25&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chicky25&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10)
 ### 🛠 Languages and Tools:
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
