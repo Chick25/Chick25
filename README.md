@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shining&color=00e5ff&height=200&section=header&text=CHICKY%20TERMINAL&fontSize=70&animation=twinkling&fontAlignY=40" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Computer+Vision+Researcher;Tech+Enthusiast" alt="Typing SVG" />
 
 # <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7W/giphy.gif" width="35"> Hi, I'm Chicky 👋</p>
 
