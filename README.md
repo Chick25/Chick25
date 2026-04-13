@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on mobile applications using **Flutter & Dart**.
 - 🌱 I’m currently learning about **AI, Computer Vision**, and hardware integration.
 - ⚡ Fun fact: I love building tools that solve real-world problems.
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chicky25&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10)
 ### 🛠 Languages and Tools:
 <p align="left">
