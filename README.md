@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Chicky+Huynh;Aspiring+Flutter+Developer;Full-stack+Mobile+%26+Backend+Enthusiast" />
 
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chicky25&show_icons=true&theme=tokyonight&border_radius=10" />
+  
+  <!-- GitHub Stats -->
+  
 </div>
 
 ### <p align="center">Aspiring Flutter Developer & Computer Vision Researcher</p>
@@ -24,10 +26,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chicky25&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicky25&layout=compact&theme=tokyonight&border_radius=15&hide=makefile,json" width="320" alt="Top Langs" />
-  </a>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicky25&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&hide=makefile,html,css,json&langs_count=8" alt="Top Languages" width="420" />
 </p>
 
 ## 🛠 TECH STACK / SKILLS
@@ -45,7 +45,7 @@
 - 🧠 Exploring **Computer Vision** and AI integration in mobile apps
 - 🔥 Improving full-stack skills (Mobile + Backend + Cloud)
 
-💬 **Ask me about**: UI/UX Design, Flutter Architecture, NestJS, AI integration, or my CS journey!
+💬 **Ask me about**: Flutter Architecture, NestJS, AI integration, or my CS journey!
 
 ---
 
