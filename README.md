@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Chicky+Huynh;Aspiring+Flutter+Developer;Mobile+%26+Backend+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Chicky+Huynh;Aspiring+Flutter+Developer;%26+Backend+Enthusiast" />
 
   <br/>
   
@@ -60,8 +60,4 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chicky25&theme=tokyonight&area=true&hide_border=true&height=200" />
-</p>
