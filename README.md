@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Chicky+Huynh;Aspiring+Flutter+Developer;Full-stack+Mobile+%26+Backend+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Chicky+Huynh;Aspiring+Flutter+Developer;Mobile+%26+Backend+Enthusiast" />
 
   <br/>
   
@@ -30,7 +30,7 @@
 ## 🛠 TECH STACK / SKILLS
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nestjs,nodejs,python,opencv, firebase, git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nestjs,nodejs,python,opencv,firebase,git,github,postman" />
 </p>
 
 ---
