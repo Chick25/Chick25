@@ -25,15 +25,12 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicky25&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&hide=makefile,html,css,json&langs_count=8" alt="Top Languages" width="420" />
-</p>
+
 
 ## 🛠 TECH STACK / SKILLS
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nestjs,nodejs,typescript,python,opencv,tensorflow,firebase,aws,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nestjs,nodejs,python,opencv, firebase, git,github,postman" />
 </p>
 
 ---
